@@ -40,8 +40,7 @@ h2 {
 }
 
 .top-banner {
-    background-image: url(images/top-banner.png);
-    background-repeat: no-repeat;
+    background-image: url(images/donation3.jpg) background-repeat: no-repeat;
 }
 
 .dream-big {
@@ -77,7 +76,7 @@ h2 {
 
 footer p {
     text-align: center;
-    background-color: black;
-    background-size: 100px 20px;
-    background: rgb(red, green, blue);
+    background: fixed;
+    background-color: cyan;
+
 }
